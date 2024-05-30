@@ -1,3 +1,3 @@
-Application Link:- https://capstonevirendrar-npjgosuvpildfr3pkhjrqh.streamlit.app/#fill-the-used-car-details-to-predict-the-price
+Application Link:- https://9yq3xw3tzvusmzz2vwdgan.streamlit.app/
 
 For further details, please find the attached PowerPoint (PPT) file in the repository.
